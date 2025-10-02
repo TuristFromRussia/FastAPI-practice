@@ -1,2 +1,4 @@
-    fastapi==0.117.1
-    uvicorn==0.37.0
+    fastapi-0.117.1
+    uvicorn-0.37.0
+    psycopg-2.9.10
+    loguru-0.7.3
